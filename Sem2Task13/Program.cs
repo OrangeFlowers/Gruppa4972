@@ -54,6 +54,6 @@ else
 
 
 
-//Variant1();
-//Variant2();
+Variant1();
+Variant2();
 Variant3();
